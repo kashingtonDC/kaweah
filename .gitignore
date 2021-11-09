@@ -2,3 +2,5 @@
 data/ssebopeta_monthly.nc
 data/*.nc
 /data/*.nc
+.DS_Store
+*.zip
